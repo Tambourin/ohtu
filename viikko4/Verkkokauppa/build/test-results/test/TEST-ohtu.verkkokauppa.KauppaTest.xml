@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ohtu.verkkokauppa.KauppaTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-02-07T13:16:58" hostname="CoolerMaster" time="0.832">
+  <properties/>
+  <testcase name="useampiOstosSamaTuote" classname="ohtu.verkkokauppa.KauppaTest" time="0.819"/>
+  <testcase name="tuotePoistetaanKoristaJaPalautetaanVarastoon" classname="ohtu.verkkokauppa.KauppaTest" time="0.003"/>
+  <testcase name="ostoksenPaaytyttyaPankinMetodiaTilisiirtoKutsutaan" classname="ohtu.verkkokauppa.KauppaTest" time="0.002"/>
+  <testcase name="eriViitenumeroJokaOstolle" classname="ohtu.verkkokauppa.KauppaTest" time="0.003"/>
+  <testcase name="useampiOstos" classname="ohtu.verkkokauppa.KauppaTest" time="0.002"/>
+  <testcase name="useampiOstosTuoteToinenLoppu" classname="ohtu.verkkokauppa.KauppaTest" time="0.001"/>
+  <testcase name="aloitaAsiointiNollaaKorin" classname="ohtu.verkkokauppa.KauppaTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
