@@ -1,0 +1,5 @@
+Kyseisissä retrospektiivi tekniikoissa molemmissa jaetaan sprintin aikana saadut kokemukset eri kategorioihin. Osa kategorioista kuvaa karkeasti ottaen onnistumisia ja osa epäonnistumisia. Lopuksi keskustellaan siitä, miten onnistumisia voidaan edelleen jalostaa ja miten epäonnistumisia voidaan korjata.
+
+Start, Stop, Continue, More of, Less of Wheel -tekniikassa piirretään ympyrä, joka jaetaan viiteen sektoriin. Sektorit edustavat kategorioita siitä mitä tiimin pitäisi alkaa tekemään, mikä ei toimi ja pitäisi lopettaa, mikä toimii, mitä tekemistä pitäisi lisätä ja mitä vähentää. Tiimin jäseniltä pyydetään huomioita kuhunkin kategoriaan ja vastaukset kirjoitetaan omiin sektoreihinsa.
+ 
+Glad, Sad, Mad -tekniikassa puolestaan pyydetään osallistujia kirjoittamaan lapuille asioita, jotka tiimissä ja sen toiminnassa toimivat, jotka eivät toimineet ja Mad-kategoriaan ulkopuolisia asioita, jotka estivät tai hidastivat tiimin toimintaa. Usean henkilön samankaltaisia huomioita niputetaan, huomioista äänestetään ja keskustellaan äänimäärän mukaisessa järjestyksessä.  
